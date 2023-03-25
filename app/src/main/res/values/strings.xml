@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="secret_garden_author">Secret Garden (2018)</string>
+    <string name="pink_roses_desc">Pink Beautiful Roses</string>
+    <string name="bouquet_of_flowers_desc">A stunning bouquet of different-colored flowers</string>
+    <string name="tae_fuller_author">Tae Fuller</string>
+    <string name="bridge_desc">San Francisco\'s bridge with amazing view</string>
+    <string name="pixabay_author">Pixabay</string>
+    <string name="railway_desc">Street with railways and trees</string>
+    <string name="goochie_author">Goochie Poochie Grooming</string>
+    <string name="dog_tongue_desc">Dog is showing its tongue</string>
+    <string name="anna_shvets_author">Anna Shvets</string>
+    <string name="dog_ears_desc">Dog is being lifted up its ears</string>
+</resources>
